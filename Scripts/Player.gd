@@ -1,5 +1,7 @@
 extends KinematicBody2D
 
+class_name Player
+
 var touching_ground :=false
 var touching_cieling :=false
 var touching_right :=false
